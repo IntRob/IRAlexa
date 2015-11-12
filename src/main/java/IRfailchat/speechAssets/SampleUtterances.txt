@@ -1,0 +1,42 @@
+CheckConditionIntent check condition
+CheckConditionIntent please check condition
+CheckConditionIntent check status
+CheckConditionIntent help
+CheckConditionIntent see if ok
+
+
+ConditionGoodIntent yes I'm fine
+ConditionGoodIntent yes
+ConditionGoodIntent yes thank you
+ConditionGoodIntent sure
+ConditionGoodIntent I think so
+
+ConfirmGoodConditionIntent thanks
+ConfirmGoodConditionIntent sure
+ConfirmGoodConditionIntent thanks for asking
+ConfirmGoodConditionIntent appreciate it
+
+ConditionBadIntent no
+ConditionBadIntent Don't think so
+ConditionBadIntent I am not sure
+
+
+ConditionBadConfirmIntent yes please call {CallToName}
+ConditionBadConfirmIntent yes
+ConditionBadConfirmIntent please do
+ConditionBadConfirmIntent thank you
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
