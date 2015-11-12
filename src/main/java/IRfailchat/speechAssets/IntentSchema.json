@@ -1,0 +1,33 @@
+{
+  "intents": [
+    {
+      "intent": "CheckConditionIntent",
+      "slots": []
+    },
+    {
+      "intent": "ConditionGoodIntent",
+      "slots": []
+    },
+    {
+      "intent": "ConfirmGoodConditionIntent",
+      "slots": []
+    },
+    {
+      "intent": "ConditionBadIntent",
+      "slots": []
+    },
+    {
+      "intent": "ConditionBadConfirmIntent",
+      "slots":[
+        {
+          "name": "CallToName",
+          "type": "LIST_OF_CALL_TO_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
